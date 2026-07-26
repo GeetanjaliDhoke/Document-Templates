@@ -174,14 +174,6 @@ This repository is provided as a collection of reusable templates for educationa
 
 ---
 
-# 🤝 Contributions
-
-Contributions are welcome.
-
-If you have improvements, additional templates, or corrections, feel free to submit a pull request or open an issue.
-
----
-
 ## 📬 Contact
 
 For questions, suggestions, sample documents, or collaboration opportunities, feel free to connect with me.
